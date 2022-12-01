@@ -1,0 +1,13 @@
+Rencana Konten
+
+design ulang dengan React js
+upload hasil design yang sudah  dibuat
+deploy di github page
+membuat konten artikel di medium
+
+
+part 1 install node JS
+* vite VS create react app
+part 2 setup vite js and tailwind css
+Part 3 membuat design card contak di react js
+part 4 design portfolio with react js
